@@ -1,4 +1,3 @@
-# Data-Journalism-D3
 
 ![Header](header.png)
 
