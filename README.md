@@ -1,6 +1,6 @@
 
-![Header](header.png)
+![Header](/images/header.png)
 
-![Plot](D3-Plot.gif)
+![Plot](/images/D3-Plot.gif)
 
-![Footer](footer.png)
+![Footer](/images/footer.png)
